@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate and enthusiast frontend developer from India</h3>
 <h2 align="center" >Front-end developer with a passion for building user-friendly and engaging web applications.</h2>
-<h3 align="center">SKILL :  REACTJS , JAVASCRIPT  ,  CSS ,  TAILWINDCSS   ,  HTML   ,  GIT  </h3>
+<h3 align="center">SKILL :  REACTJS , Redux , Firebase , JAVASCRIPT  , PWA ,  CSS ,  TAILWINDCSS   ,  HTML   ,  GIT  </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weberankit&label=Profile%20views&color=0e75b6&style=flat" alt="weberankit" /> </p>
 my Linkedin: <a target="_blank" href="https://www.linkedin.com/in/ankitkrs/">Linkedin </a>
 my portFolio:<a target="_blank"   href="https://www.ankitkr.in/">Portfolio</a>
