@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ankit Kr</h1>
 <h3 align="center">AI/ML-Focused Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
