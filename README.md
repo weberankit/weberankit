@@ -1,71 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ankit Kr</h1>
-<h3 align="center">AI/ML-Focused Full-Stack Developer from India 🇮🇳</h3>
-
-<p align="center">
-I’m an AI/ML-focused <b>Full-Stack Developer</b> passionate about building intelligent, scalable, and production-ready applications.
-I work across the stack using <b>React, Next.js, Tailwind CSS, and Node.js</b>, with a strong focus on performance, clean architecture,
-and real-world usability.
-</p>
-
-<p align="center">
-On the backend, I build robust systems using <b>Node.js, Express.js, MongoDB, and Python</b>, enabling end-to-end development—
-from APIs to intelligent workflows.
-</p>
-
-<p align="center">
-My current focus is on <b>LLMs, Agentic AI, and RAG (Retrieval-Augmented Generation)</b>.
-I actively work with <b>vector databases, embeddings, prompt engineering, tool-calling, and orchestration</b> to build
-context-aware, autonomous, and intelligent systems that go beyond basic chatbots.
-</p>
-
-<p align="center">
-I enjoy combining <b>full-stack engineering</b> with <b>AI/ML innovation</b> to create products that think, reason, and scale—
-turning ideas into impactful solutions.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=weberankit&label=Profile%20views&color=0e75b6&style=flat" alt="weberankit" />
-</p>
+<h1 align="center">Ankit Kr</h1>
+<p align="center">GenAI Full-Stack Developer • Building Intelligent Systems</p>
 
 ---
 
-<h3 align="center">🛠 Tech Stack & Skills</h3>
+<div align="center">
 
-<p align="center">
-<b>Frontend:</b> React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn-UI, Redux, PWA  
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚙️ Tech Stack</h3>
+
+<code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code><br/>
+<code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code><br/>
+<code>REST APIs</code> <code>Firebase</code> <code>Git</code>
+
 <br/>
-<b>Backend:</b> Node.js, Express.js, MongoDB, Python  
+
+<h3>🧠 AI / GenAI</h3>
+
+<code>LLMs</code> <code>RAG</code> <code>Agentic AI</code><br/>
+<code>LangChain</code> <code>LangGraph</code><br/>
+<code>Embeddings</code> <code>Vector DB</code><br/>
+<code>Prompt Engineering</code> <code>Tool Calling</code>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚀 What I Build</h3>
+
+• Context-aware AI applications  
+• RAG-based intelligent systems  
+• Multi-agent workflows  
+• Full-stack production apps  
+
 <br/>
-<b>AI / ML:</b> LLMs, Agentic AI, RAG, Vector Databases, Embeddings, Prompt Engineering, Tool Calling  
+
+<h3>⚡ Focus</h3>
+
+• Scalable backend architecture  
+• AI system design & orchestration  
+• Performance-driven frontend  
+• Real-world problem solving  
+
 <br/>
-<b>Tools & Others:</b> Git, Firebase, REST APIs, Clean Architecture
-</p>
+
+<h3>📊 Profile</h3>
+<a href="https://www.toolsaihub.com/">Visit</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<h3 align="center">🔗 Connect with Me</h3>
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ankitkrs/" target="_blank">LinkedIn</a> •
-<a href="https://www.ankitkr.in/" target="_blank">Portfolio</a>
-</p>
+<h3>🌐 Connect</h3>
 
----
+<a href="https://www.linkedin.com/in/ankitkrs/">LinkedIn</a> •
+<a href="https://www.toolsaihub.com">Portfolio</a>
 
-<h3 align="center">📫 Contact</h3>
+<br/><br/>
 
-<p align="center">
-📧 codingank@gmail.com  
-<br/>
-📩 impmessageweb@gmail.com
-</p>
+📧 <b>codingank@gmail.com</b>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=weberankit&show_icons=true&locale=en&layout=compact" alt="weberankit" />
-</p>
-
-
+</div>
