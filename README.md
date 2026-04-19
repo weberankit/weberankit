@@ -1,71 +1,64 @@
-<h1 align="center">Ankit Kr</h1>
-<p align="center">GenAI Full-Stack Developer • Building Intelligent Systems</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ankit+Kr+%F0%9F%91%8B;Software+Engineer;GenAI+%26+Full-Stack" alt="Typing SVG" />
+</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/Software%20Engineer-GenAI%20%26%20Full--Stack-6e40c9?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+> *I build intelligent systems — agentic pipelines, reasoning-driven retrieval,*  
+> *and full-stack products that actually ship.*
+
+<br/>
 
 ---
 
-<div align="center">
+### 🔭 Currently Building
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>⚙️ Tech Stack</h3>
-
-<code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code><br/>
-<code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code><br/>
-<code>REST APIs</code> <code>Firebase</code> <code>Git</code>
-
-<br/>
-
-<h3>🧠 AI / GenAI</h3>
-
-<code>LLMs</code> <code>RAG</code> <code>Agentic AI</code><br/>
-<code>LangChain</code> <code>LangGraph</code><br/>
-<code>Embeddings</code> <code>Vector DB</code><br/>
-<code>Prompt Engineering</code> <code>Tool Calling</code>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🚀 What I Build</h3>
-
-• Context-aware AI applications  
-• RAG-based intelligent systems  
-• Multi-agent workflows  
-• Full-stack production apps  
-
-<br/>
-
-<h3>⚡ Focus</h3>
-
-• Scalable backend architecture  
-• AI system design & orchestration  
-• Performance-driven frontend  
-• Real-world problem solving  
-
-<br/>
-
-<h3>📊 Profile</h3>
-<a href="https://www.toolsaihub.com/">Visit</a>
-
-</td>
-</tr>
-</table>
-
-</div>
+```
+Agentic RAG  ·  LLM Reasoning Systems  ·  Full-Stack AI Products
+```
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-<h3>🌐 Connect</h3>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=weberankit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&rank_icon=github"/>
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=weberankit&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=ff6b6b&currStreakLabel=ffffff"/>
+</p>
 
-<a href="https://www.linkedin.com/in/ankitkrs/">LinkedIn</a> •
-<a href="https://www.toolsaihub.com">Portfolio</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weberankit&bg_color=0d1117&color=a78bfa&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&radius=6&height=300" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weberankit&theme=tokyonight" width="100%"/>
+
+---
+
+### 🌐 Connect
+
+<a href="https://www.linkedin.com/in/ankitkrs/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.toolsaihub.com">
+  <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:codingank@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-📧 <b>codingank@gmail.com</b>
+<img src="https://komarev.com/ghpvc/?username=weberankit&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
